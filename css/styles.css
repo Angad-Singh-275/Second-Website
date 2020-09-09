@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  /* font-family: sans-serif; */
+}
+
+p {
+  margin: 0;
+  /* font-size: 1.7rem; */
+  color: #84a9ac;
+  font-weight: normal;
+  line-height: 2;
+}
+a{
+    color:#086972;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+a:hover{
+  color: #01a9b4;
+  text-decoration: underline;
+}
+
+.topper {
+  font-size: 1.7rem;
+}
+
+.computer_image {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chess_image {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+  /* text-align: justify; */
+}
+
+.span_pro {
+  text-decoration: underline;
+}
+
+h3 {
+  color: #66bFBF;
+  font-weight: bold;
+  /* font-family: 'Roboto', sans-serif; */
+}
+
+.contacts {
+  font-size: 1.5rem;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #fbc687;
+  border-width: 5px;
+  width: 20%;
+}
+
+h2 {
+  color: #66bFBF;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 10px;
+}
+
+.middle-container {
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.chess {
+  width: 300px;
+  height: 300px;
+}
+
+img {
+  margin-right: 30px;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Sacramento', sans-serif;
+  font-size: 4.5rem;
+  color: #66bFBF;
+}
+
+.my_pic {
+  border-radius: 100%;
+  height: 190px;
+  width: 175px;
+}
+
+.contact-me {
+  text-align: center;
+  line-height: 2;
+}
+
+.upper {
+  padding-top: 100px;
+  position: relative;
+  background-color: #EAF6F6;
+}
+
+.up_cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.down_cloud {
+  position: absolute;
+  top: 225px;
+  left: 270px;
+}
+.bottom-container{
+  background-color: #aacdbe;
+  height: 100px;
+  padding-top: 10px;
+  /* color:#086972; */
+}
+.cmo{
+    color:#086972;
+    margin-top: 15px ;
+}
+.myButton {
+  margin-top: 10px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #5eaaa8 5%,#a3d2ca 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:10px 28px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  /* height:15px; */
+  line-height: 1.5;
+
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
