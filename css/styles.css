@@ -116,13 +116,13 @@ h1 {
 .up_cloud {
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 15%;
 }
 
 .down_cloud {
   position: absolute;
   top: 225px;
-  left: 270px;
+  left: 15%;
 }
 .bottom-container{
   background-color: #aacdbe;
